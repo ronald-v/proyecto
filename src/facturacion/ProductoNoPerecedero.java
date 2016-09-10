@@ -13,4 +13,8 @@ import java.math.BigDecimal;
  * @author oscarquinteros
  */
 public class ProductoNoPerecedero extends Producto{
+    
+    public ProductoNoPerecedero(int stock,String codigo, String descripcion, BigDecimal precioUnitario){
+        super(stock,codigo,descripcion,precioUnitario);
+    }
 }

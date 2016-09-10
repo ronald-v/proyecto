@@ -3,22 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/Facturacion.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/ProductoNoPerecedero.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/Impuesto.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/Producto.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/ProductoPerecedero.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/Servicio.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/Articulo.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/Factura.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/Cliente.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/ClientePreferencial.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/ClienteComun.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/FormaPago.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/FormaPagoContado.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/FormaPagoCuentaCorriente.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/FormaPagoTarjetaCredito.java</file>
-            <file>file:/Users/oscarquinteros/NetBeansProjects/Facturacion/src/facturacion/LibroIVAVenta.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Facturacion.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/ItemFactura.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/ProductoNoPerecedero.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Articulo.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Factura.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/test/facturacion/ItemFacturaTest.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Producto.java</file>
         </group>
     </open-files>
 </project-private>

@@ -16,7 +16,14 @@ public abstract class Articulo {
     private String codigo;
     private String descripcion;
     private BigDecimal precioUnitario;
-    private Impuesto[] impuestos[];        
+    private Impuesto[] impuestos[];    
+    
+    
+    public Articulo(String codigo, String descripcion, BigDecimal precioUnitario){
+        this.codigo=codigo;
+        this.descripcion=descripcion;
+        this.precioUnitario=precioUnitario;
+    }
 
     /**
      * @return the codigo
