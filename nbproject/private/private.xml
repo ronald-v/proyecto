@@ -5,11 +5,11 @@
         <group>
             <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Facturacion.java</file>
             <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/ItemFactura.java</file>
-            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/ProductoNoPerecedero.java</file>
-            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Articulo.java</file>
-            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Factura.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/test/facturacion/FacturaTest.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/LibroIVAVenta.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/ComprobanteFiscal.java</file>
             <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/test/facturacion/ItemFacturaTest.java</file>
-            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Producto.java</file>
+            <file>file:/Users/oscarquinteros/UncaJavaProjects/Facturacion/src/facturacion/Factura.java</file>
         </group>
     </open-files>
 </project-private>

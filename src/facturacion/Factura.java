@@ -6,13 +6,14 @@
 
 package facturacion;
 
+import java.math.BigDecimal;
 import java.util.Date;
 
 /**
  *
  * @author oscarquinteros
  */
-public class Factura {
+public class Factura implements ComprobanteFiscal{
     private int numero;
     private Date fecha;
     private ItemFactura[] items = new ItemFactura[10];
@@ -94,5 +95,20 @@ public class Factura {
      */
     public void setItems(ItemFactura[] items) {
         this.items = items;
+    }
+
+    @Override
+    public BigDecimal totalIVA() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public BigDecimal totalComprobante() {
+        BigDecimal resultado= new BigDecimal(0.00);
+        for (int i = 0; i < items.length; i++) {
+            ItemFactura itemFactura = items[i];  
+            resultado = resultado.add(itemFactura.subTotal());
+        }
+        return resultado;
     }
 }
