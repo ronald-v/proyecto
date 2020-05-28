@@ -12,6 +12,9 @@ import java.util.Date;
 /**
  *
  * @author oscarquinteros
+ * @actualizacion:
+ * Ronald Yesid Velasquez Mojica
+ * Mayo del 2020
  */
 public class Factura implements ComprobanteFiscal{
     private int numero;

@@ -11,6 +11,9 @@ import java.math.BigDecimal;
 /**
  *
  * @author oscarquinteros
+ * @actualizacion:
+ * Ronald Yesid Velasquez Mojica
+ * Mayo del 2020
  */
 public abstract class Articulo {
     private String codigo;
@@ -70,14 +73,14 @@ public abstract class Articulo {
     /**
      * @return the impuestos
      */
-    public Impuesto[][] getImpuestos() {
+    public Impuesto[][] getImpuesto() {
         return impuestos;
     }
 
     /**
      * @param impuestos the impuestos to set
      */
-    public void setImpuestos(Impuesto[][] impuestos) {
+    public void setImpuesto(Impuesto[][] impuestos) {
         this.impuestos = impuestos;
     }
 }

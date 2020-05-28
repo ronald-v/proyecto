@@ -25,8 +25,8 @@ public class Facturacion {
         Cliente cliente = new ClienteComun();
         //Cliente cliente2 = new ClientePreferencial();
         
-        ProductoNoPerecedero articulo1 = new ProductoNoPerecedero(10,"01","Ejemplo",new BigDecimal(10));
-        ProductoNoPerecedero articulo2 = new ProductoNoPerecedero(10,"02","Ejemplo 2",new BigDecimal(20));
+        ProductoNoPerecedero articulo1 = new ProductoNoPerecedero(10,"01","Muestra",new BigDecimal(10));
+        ProductoNoPerecedero articulo2 = new ProductoNoPerecedero(10,"02","Muestra No2",new BigDecimal(20));
         
         
         Factura factura = new Factura(1,calendario.getTime(),cliente);

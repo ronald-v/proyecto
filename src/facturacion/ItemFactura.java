@@ -11,6 +11,9 @@ import java.math.BigDecimal;
 /**
  *
  * @author oscarquinteros
+ * @actualizacion:
+ * Ronald Yesid Velasquez Mojica
+ * Mayo del 2020
  */
 class ItemFactura {
     private Articulo articulo;
