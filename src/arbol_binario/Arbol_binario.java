@@ -19,8 +19,8 @@ public class Arbol_binario
         System.out.println("Diseñado por: Ronald Yesid Velasquez Mojica");
         System.out.println("Cod: 561217287");
         System.out.println("Cel: 3176770151");
-        System.out.println("");
-        System.out.println("");
+        System.out.println("r");
+        System.out.println("r");
         while (true) 
         {
             System.out.println("");
